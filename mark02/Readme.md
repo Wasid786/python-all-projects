@@ -5,7 +5,7 @@ This guide will help you set up and run a Django project step by step on Windows
 ---
 
 ## 📁 Project Structure
-
+```
 mark02/
 │
 ├── restful01/ # Django project
@@ -17,7 +17,7 @@ mark02/
 ├── .gitignore
 ├── README.md
 
-
+```
 
 ---
 
